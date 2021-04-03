@@ -1,7 +1,7 @@
 # JavaScript Project - AKAI Music Machine
 ## Z repozytorium https://github.com/cdv-poznan/javascript-project-2021
 ### Sterowanie z poziomu klawiatury:
-### [z] - perkusja; [x] - gitara akustyczna; [c] - gitara basowa; [v] - klawisze; [b] trąbka; [n] - śpiew kobiecy; [m] - Beatbox 1; [k] - Beatbox 2; [l] - chór
+### [z] - perkusja; [x] - gitara akustyczna; [c] - gitara basowa; [v] - keyboard; [b] trąbka; [n] - śpiew kobiecy; [m] - Beatbox 1; [k] - Beatbox 2; [l] - chór
 ### Sterowanie myszką 
 ### Dotknięcie na ekranie dotykowym.
 
