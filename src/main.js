@@ -35,8 +35,6 @@ function playSound(key) {
 keys.forEach(key => {
   key.addEventListener('click', () => {
     playSound(key);
-    //        key.classList.toggle('active');
-    //        console.log('click');
   });
 });
 
