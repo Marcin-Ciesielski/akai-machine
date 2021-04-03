@@ -39,8 +39,6 @@ body {
   background-size: 40px 60px;
 }
 
-
-
 .container {
   @include flex-justify;
   flex-direction: column;
@@ -52,7 +50,6 @@ body {
   border: 1px solid #739059;
   box-shadow: 0 0 4px #fff;
   border-radius: 10px;
-
 }
 
 h1 {
@@ -193,8 +190,6 @@ h1 {
   }
 
   h1 {
-    font-family: "fat_wandals_personal_useRg", sans-serif;
-    text-align: center;
     font-size: 1.8em;
     line-height: 2em;
     letter-spacing: 8px;
