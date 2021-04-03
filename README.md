@@ -7,7 +7,7 @@ LINKI:
 * [AKAI MPC] (https://pl.wikipedia.org/wiki/Akai_MPC)
 * [AKAI PRO] (https://www.akaipro.com/)
 ### Sterowanie z poziomu klawiatury:
-klawisz z | klawisz x | klawisz c | klawisz v | klawisz b | klawisz n | klawisz m | klawisz k | klawisz l
+klawisz Z | klawisz X | klawisz C | klawisz V | klawisz B | klawisz N | klawisz M | klawisz K | klawisz L
 -------- | -------- | ---------- | -------- | ------ | -------- | -------- | -------- | --------
 perkusja | gitara akustyczna | gitara basowa | keyboard | trąbka | śpiew kobiecy | Beatbox 1 | Beatbox 2 | chór
 ### Sterowanie myszką 
