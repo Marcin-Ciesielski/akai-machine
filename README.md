@@ -1,4 +1,5 @@
 # JavaScript Project - AKAI Music Machine
+### Collegium Da Vinci 2020/2021
 ## Z repozytorium https://github.com/cdv-poznan/javascript-project-2021
 ## AKAI Music Machine - emulator  kultowego sekwencera/samplera firmy AKAI
 ## Naciskamy pady i z przypisanych do nich ścieżek tworzymy własną melodię
