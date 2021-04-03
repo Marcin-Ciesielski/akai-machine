@@ -9,6 +9,7 @@ LINKI:
 ### [z] - perkusja; [x] - gitara akustyczna; [c] - gitara basowa; [v] - keyboard; [b] trąbka; [n] - śpiew kobiecy; [m] - Beatbox 1; [k] - Beatbox 2; [l] - chór
 ### Sterowanie myszką 
 ### Dotknięcie na ekranie dotykowym.
+### Ścieżki zrobione przez Piotr "Liroy" Marzec oraz Marcin "Cytrobit" Ciesielski
 
 ### Instalacja Zależności
 
