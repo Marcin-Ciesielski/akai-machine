@@ -3,7 +3,7 @@
 ### Sterowanie z poziomu klawiatury:
 ### [z] - perkusja; [x] - gitara akustyczna; [c] - gitara basowa; [v] - klawisze; [b] trąbka; [n] - śpiew kobiecy; [m] - Beatbox 1; [k] - Beatbox 2; [l] - chór
 ### Sterowanie myszką 
-###dotknięcie na ekranie dotykowym.
+### Dotknięcie na ekranie dotykowym.
 
 ### Instalacja Zależności
 
