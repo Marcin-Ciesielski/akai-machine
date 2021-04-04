@@ -1,13 +1,15 @@
 # JavaScript Project - AKAI Music Machine
 ### Collegium Da Vinci Poznań 2020/2021
-## Z repozytorium https://github.com/cdv-poznan/javascript-project-2021
+### Z repozytorium https://github.com/cdv-poznan/javascript-project-2021
 ## AKAI Music Machine - emulator  kultowego sekwencera/samplera firmy AKAI
 ## Naciskamy pady i z przypisanych do nich ścieżek tworzymy własną melodię
 LINKI:
 * [AKAI MPC] (https://pl.wikipedia.org/wiki/Akai_MPC)
 * [AKAI PRO] (https://www.akaipro.com/)
 ### Sterowanie z poziomu klawiatury:
-### [z] - perkusja; [x] - gitara akustyczna; [c] - gitara basowa; [v] - keyboard; [b] trąbka; [n] - śpiew kobiecy; [m] - Beatbox 1; [k] - Beatbox 2; [l] - chór
+klawisz Z | klawisz X | klawisz C | klawisz V | klawisz B | klawisz N | klawisz M | klawisz K | klawisz L
+-------- | -------- | ---------- | -------- | ------ | -------- | -------- | -------- | --------
+perkusja | gitara akustyczna | gitara basowa | keyboard | trąbka | śpiew kobiecy | Beatbox 1 | Beatbox 2 | chór
 ### Sterowanie myszką 
 ### Dotknięcie na ekranie dotykowym.
 ### Ścieżki zrobione przez Piotr "Liroy" Marzec oraz Marcin "Cytrobit" Ciesielski
