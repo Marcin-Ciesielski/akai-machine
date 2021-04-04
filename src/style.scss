@@ -134,6 +134,7 @@ h1 {
   box-shadow: inset 9.91px 9.91px 15px#4d5aa6, inset -9.91px -9.91px 15px#5f70cc;
   border-radius: 10px;
   transition: 0.2s;
+  user-select: none;
 }
 
 .key:nth-child(odd) {

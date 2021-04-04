@@ -38,9 +38,26 @@ keys.forEach(key => {
   });
 });
 
+keys.addEventListener('dblclick', e => {
+  const key = e.target;
+  stopSound(key);
+});
+
 keys.forEach(key => {
   key.addEventListener('touchstart', e => {
+    if (e.repeat) {
+      return;
+    }
+    key = e.target;
     playSound(key);
+  });
+});
+
+keys.forEach(key => {
+  key.addEventListener('touchend', e => {
+    e.preventDefault();
+    key = e.target;
+    stopSound(key);
   });
 });
 
