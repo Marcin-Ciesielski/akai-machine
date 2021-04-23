@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Marcin-Ciesielski/akai-machine.git"
+    "url": "git+https://github.com/cdv-poznan/javascript-project-2021.git"
   },
   "keywords": [
     "javascript",
@@ -19,13 +19,22 @@
     "prettier",
     "sass"
   ],
-  "author": "Marcin Ciesielski <emsique@gmail.com>",
+  "author": "Adrian Juszczak <adrian.juszczak@cdv.pl>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Marcin-Ciesielski/akai-machine.git"
+    "url": "https://github.com/cdv-poznan/javascript-project-2021/issues"
   },
-  "homepage": "https://github.com/Marcin-Ciesielski/akai-machine.git",
-  "dependencies": {},
+  "homepage": "https://github.com/cdv-poznan/javascript-project-2021#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@popperjs/core": "^2.9.1",
+    "bootstrap": "^5.0.0-beta2",
+    "chart.js": "^2.9.4",
+    "localforage": "^1.9.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "push.js": "^1.0.12"
+  },
   "devDependencies": {
     "@babel/cli": "^7.13.0",
     "@babel/core": "^7.13.8",
@@ -40,6 +49,7 @@
     "eslint": "^7.21.0",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-webpack-plugin": "^2.5.2",
+    "firebase-tools": "^9.6.1",
     "html-webpack-plugin": "^5.2.0",
     "mini-css-extract-plugin": "^1.3.9",
     "prettier": "^2.2.1",
